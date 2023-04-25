@@ -1,5 +1,5 @@
 # Inroduction
-This repo aims at writing the DQN model published by DeepMind at their original paper [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) in PyTorch.
+This repo aims at coding from scratch the DQN model published by DeepMind at their original paper [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) in PyTorch.
 
 
 
