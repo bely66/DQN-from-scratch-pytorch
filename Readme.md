@@ -5,8 +5,12 @@ This repo aims at writing the DQN model published by DeepMind at their original 
 
 
 
+## Create Conda Environment
+conda create -n dqn python=3.8
 
 ## Todos
+- [x] Benchmark the baseline model using StableBaseline 3
+- [x] Benchmark the baseline model using Karpathy MLP
 - [ ] Write the DQN model
 - [ ] Write the DQN model with experience replay
 - [ ] Train the model on 1 atari game
